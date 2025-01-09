@@ -122,7 +122,6 @@ Cypress.Commands.add ('cadastro_nome_em_branco' , () => {
     // cy.get(selectors.mensagemCampoObrigatorioNome).should('contain', 'Este campo é obrigatório');
 });
 
-
 Cypress.Commands.add ('cadastro_cpf_em_branco' , () => {
     cy.get(selectors.botaoAcessar).click({ multiple: true });
     cy.wait(1000);
