@@ -6,7 +6,7 @@ beforeEach('' , () => {
 describe('Alerta Cidadão - Cadastro de usuário', () => {
     // it('CT001 - Realizar cadastro como brasileiro com sucesso', () => {
     //     cy.cadastro_brasileiro_com_sucesso();
-    // });
+    //});
     //it('CT002 - Realizar cadastro como estrangeiro com sucesso', () => {
     //   cy.cadastro_estrangeiro_com_sucesso();
     //});
