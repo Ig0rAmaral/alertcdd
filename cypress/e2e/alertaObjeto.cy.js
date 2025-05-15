@@ -14,4 +14,4 @@ describe('Alerta cidadão - Emissão de alerta ao objeto ', () => {
     it('CT002 - Remover alerta de objeto com sucesso', () => {
         cy.remover_alerta();
     });
-});
+})
